@@ -8,7 +8,7 @@ A plugin using js-beautify to de-minimize JS and CSS in BBEdit
 
 `cd BBeautify`
 
-`install.sh`
+`./install.sh`
 
 ### manual:
 
